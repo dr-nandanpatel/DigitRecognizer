@@ -24,3 +24,5 @@ Then run gui_windows.py!
 For loading different model into the load_model.py, simply, change the value of **backend_model** as the name of your trained model and run the gui_model.py file!
 
 Ensure that **canvas.png** file exists in the same directory!
+
+**Query??** Email me at [nandan.patel951@gmail.com](nandan.patel951@gmail.com)
