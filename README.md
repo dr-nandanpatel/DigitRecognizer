@@ -25,4 +25,4 @@ For loading different model into the load_model.py, simply, change the value of 
 
 Ensure that **canvas.png** file exists in the same directory!
 
-**Query??** Email me at [nandan.patel951@gmail.com](nandan.patel951@gmail.com)
+**Query??** Email me at nandan.patel951@gmail.com
